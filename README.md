@@ -15,6 +15,27 @@ Aztec is building a decentralized, privacy-focused network and the sequencer nod
 | Internet Speed | 25 Mbps Upload / Download          |
 -------
 
+# 🛑🛑 BEFORE NODE RUN 🛑🛑
+
+ # SABSE PAHLE APNE GOOGLE CLOUD K VPS ME JAAO 
+ # FIR VPS KO SLECT KARO 
+ # STEUP FIREWALL KO SLECT KARO 
+# NAME - allow-40400- port 
+# ALL INSTANCE SLECT KARO 
+# IPV ME 👇👇👇
+```
+0.0.0.0/0
+```
+# TCP ME 👇👇👇
+```
+40400
+```
+# UDP ME 👇👇👇
+```
+40400
+```
+# 🛑🛑 CRETE PE CLICKKARO FIR AAGE KA KAMM KARO 🛑🛑
+
 
 ## 📥 Installation
 - Install `curl` and `wget` first
